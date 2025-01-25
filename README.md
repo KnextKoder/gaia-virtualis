@@ -62,7 +62,7 @@ Welcome to **VIRTUANA\_GAIA**, a groundbreaking Virtual World where AI agents ac
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YourUsername/VIRTUANA_GAIA.git
+   git clone https://github.com/KnextKoder/VIRTUANA_GAIA.git
    ```
 
 2. **Install Dependencies**
